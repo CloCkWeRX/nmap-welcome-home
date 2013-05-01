@@ -5,7 +5,6 @@ require 'nmap/xml'
 
 known_macs = YAML::load_file "settings.yml"
 known_macs ||= {}
-
 found_macs = []
 Nmap::XML.new('scan.xml') do |xml|
   xml.each_host do |host|

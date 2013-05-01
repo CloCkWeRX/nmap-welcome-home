@@ -1,4 +1,16 @@
 ---
-- :addr: 98:0c:82:f4:d4:5c
-  :name: Daniel
-  :last_seen: !ruby/object:DateTime 2013-01-15 01:17:40.033287547 +10:30
+00:60:64:58:F9:07:
+  :name: 'Dan'
+  :addr: 00:60:64:58:F9:07
+  :last_seen: !ruby/object:DateTime 2013-05-02 02:01:01.803837916 +09:30
+  :notify: true
+BC:77:37:E3:8C:B2:
+  :name: ''
+  :addr: BC:77:37:E3:8C:B2
+  :last_seen: !ruby/object:DateTime 2013-05-02 02:01:01.803922530 +09:30
+  :notify: false
+20:64:32:0B:1E:6E:
+  :name: ''
+  :addr: 20:64:32:0B:1E:6E
+  :last_seen: !ruby/object:DateTime 2013-05-02 02:01:01.803941564 +09:30
+  :notify: false
